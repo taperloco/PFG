@@ -1,0 +1,9 @@
+flask-restful
+pymongo
+pyjwt
+bcrypt
+pyopenssl
+python-dotenv
+
+# For deployment
+gunicorn
